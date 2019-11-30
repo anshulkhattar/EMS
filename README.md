@@ -13,6 +13,19 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 2. One visitor can plan only one visit until he/she checks out of the current visit.
 3. Host Name and address visited details are fixed.
 
+## How to use
+
+### A working internet connection is must for running the app.
+
+#### Changes to be made - 
+1. Go to EntryDetails.kt  
+2. Find the comment that says "Add sender and receivers credentials". The similar comment will be at 2 places.
+3. Change the sample to email and passwords to a working email credentials for both sender as well the receipent.
+4. After making above mentioned changes , app will gice the required functionality.
+
+#### Follow the Working section to see the functionality of the app.
+
+
 ## Working
 1. Visitor logs in to the application with Google Sign-In Authentication provided by firebase.
 2. If visitor has to start a new appointment , they will fill a form and details are sent to the host.
