@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "899072095474",
+    "firebase_url": "https://rentngo-c7d3b.firebaseio.com",
+    "project_id": "rentngo-c7d3b",
+    "storage_bucket": "rentngo-c7d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899072095474:android:0913fcb58cb7a1f4f68c6b",
+        "android_client_info": {
+          "package_name": "com.example.ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899072095474-r1u33n3gcqpbqjcgna1hpcf9k3tgubmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GPZFtBs4KJpTsXyVpCJ4WHdx9gfCvco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899072095474-r1u33n3gcqpbqjcgna1hpcf9k3tgubmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899072095474:android:8e6cafa9110a5a4a",
+        "android_client_info": {
+          "package_name": "com.example.hp.rentngo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899072095474-b2cpk1q4ssapnb7r53b07aq53n2ip9c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.rentngo",
+            "certificate_hash": "1ddebaa1bb870ef7f4f75c8bb188d259061c9cb8"
+          }
+        },
+        {
+          "client_id": "899072095474-r1u33n3gcqpbqjcgna1hpcf9k3tgubmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GPZFtBs4KJpTsXyVpCJ4WHdx9gfCvco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899072095474-r1u33n3gcqpbqjcgna1hpcf9k3tgubmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
