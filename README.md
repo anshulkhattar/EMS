@@ -21,7 +21,7 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 1. Go to EntryDetails.kt  
 2. Find the comment that says "Add sender and receivers credentials". The similar comment will be at 2 places.
 3. Change the sample to email and passwords to a working email credentials for both sender as well the receipent.
-4. After making above mentioned changes , app will gice the required functionality.
+4. After making above mentioned changes , app will give the required functionality.
 
 #### Follow the Working section to see the functionality of the app.
 
