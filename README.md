@@ -1,4 +1,4 @@
-# EMS
+# EMS - Entry Management System
 SDE Intern Assignment for Innovaccer summergeeks 2020. 
 
 ## Technology Used
