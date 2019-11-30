@@ -27,11 +27,10 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 
 
 ## Screenshots
-
-<img src="https://github.com/anshulkhattar/EMS/blob/master/ss/Screenshot_20191130-141813_EMS.jpg" width="200" height="400" />
-<img src="https://github.com/anshulkhattar/EMS/blob/master/ss/Screenshot_20191130-141836_EMS.jpg" width="200" height="400" />
+<p>
+<img src="https://github.com/anshulkhattar/EMS/blob/master/ss/Screenshot_20191130-141813_EMS.jpg" width="200" height="400" /><img src="https://github.com/anshulkhattar/EMS/blob/master/ss/Screenshot_20191130-141836_EMS.jpg" width="200" height="400" />
 <img src="https://github.com/anshulkhattar/EMS/blob/master/ss/Screenshot_20191130-141925_EMS.jpg" width="200" height="400" />
-
+</p>
 
 ## Working
 1. Visitor logs in to the application with Google Sign-In Authentication provided by firebase.
