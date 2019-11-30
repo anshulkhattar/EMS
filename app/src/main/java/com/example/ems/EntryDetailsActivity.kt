@@ -122,7 +122,9 @@ class EntryDetailsActivity : AppCompatActivity() {
                         "Phone - " +phnValue +"\n" +
                         "Check In - "+ checkInTime+"\n" +
                         "Email - "+ email+"\n"
-
+                /*
+                 *Add sender and receivers credentials
+                 */
                 BackgroundMail.newBuilder(this@EntryDetailsActivity)
                     .withUsername("sender@pqr.com")
                     .withPassword("Sender's email Password")
@@ -154,6 +156,10 @@ class EntryDetailsActivity : AppCompatActivity() {
 
             ref.child("checkOutTime").setValue(checkOutTime)
 
+
+            /*
+             *Add sender and receivers credentials
+             */
             BackgroundMail.newBuilder(this@EntryDetailsActivity)
                 .withUsername("sender@pqr.com")
                 .withPassword("Sender's email Password")
