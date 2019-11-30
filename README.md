@@ -28,7 +28,9 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 
 ## Screenshots
 
-![MainActivity](https://drive.google.com/file/d/1TMYkJRL_OXi1FWd4v66Zwajzs_8aLUky/view?usp=sharing)
+<img src="https://github.com/anshulkhattar/EMS/blob/master/ss/Screenshot_20191130-141813_EMS.jpg" width="200" height="400" />
+<img src="https://github.com/anshulkhattar/EMS/blob/master/ss/Screenshot_20191130-141836_EMS.jpg" width="200" height="400" />
+<img src="https://github.com/anshulkhattar/EMS/blob/master/ss/Screenshot_20191130-141925_EMS.jpg" width="200" height="400" />
 
 
 ## Working
