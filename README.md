@@ -26,6 +26,11 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 #### Follow the Working section to see the functionality of the app.
 
 
+## Screenshots
+
+![MainActivity](https://drive.google.com/file/d/1TMYkJRL_OXi1FWd4v66Zwajzs_8aLUky/view?usp=sharing)
+
+
 ## Working
 1. Visitor logs in to the application with Google Sign-In Authentication provided by firebase.
 2. If visitor has to start a new appointment , they will fill a form and details are sent to the host.
